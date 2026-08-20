@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-y0ztvh.wedang77.live/sitemap.xml
